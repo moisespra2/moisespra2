@@ -3,7 +3,7 @@
 Exp iniciante com HTML, CSS, C, PHP, Java
 Cursando 3/6 ✅
 Itapira/SP 🚩
-<img src="https://github.com/user-attachments/assets/0405ca90-5831-42f3-8bf6-42d20a1c9364" width="32px">
+<img src="https://github.com/user-attachments/assets/0405ca90-5831-42f3-8bf6-42d20a1c9364" width="98px">
 
 
 <!--
