@@ -1,8 +1,8 @@
 # Olá, me chamo Moisés Elias do Prado ✌️
 ## Itapira/SP 🚩
-## Sou estudante de Desenvolvimento de Software - FATEC ITAPIRA 🏛️
-## Exp iniciante com HTML, CSS, C, PHP, Java
-## Cursando 3/6 ✅
+### Sou estudante de Desenvolvimento de Software - FATEC ITAPIRA 🏛️
+Exp iniciante com HTML, CSS, C, PHP, Java
+Cursando 3/6 ✅
 
 <!--
 **moisespra2/moisespra2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
