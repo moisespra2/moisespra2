@@ -1,8 +1,8 @@
 # Olá, me chamo Moisés Elias do Prado ✌️
 ## Sou estudante de Desenvolvimento de Software - FATEC ITAPIRA 🏛️
-Exp iniciante com HTML, CSS, C, PHP, Java
-Cursando 3/6 ✅
-Itapira/SP 🚩
+Exp iniciante com HTML, CSS, C, PHP, Java <br>
+Cursando 3/6 ✅ <br>
+Itapira/SP 🚩<br>
 <img src="https://github.com/user-attachments/assets/0405ca90-5831-42f3-8bf6-42d20a1c9364" width="98px">
 
 
